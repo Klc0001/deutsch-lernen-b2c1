@@ -1,0 +1,11 @@
+{
+  "name": "Deutsch Lernen B2-C1",
+  "short_name": "Deutsch Lernen",
+  "lang": "tr",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f8",
+  "theme_color": "#183247",
+  "description": "Türkçe destekli B2-C1 Almanca öğrenme uygulaması",
+  "icons": []
+}
